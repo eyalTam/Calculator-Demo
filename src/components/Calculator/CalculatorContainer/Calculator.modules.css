@@ -1,0 +1,42 @@
+.main_style{
+    height:100%;
+    width:100%;
+    width:70%;
+    margin:auto;
+    background: rgb(241, 241, 207);
+    border-radius: 20px;
+    border: 5px solid rgb(21, 49, 82);
+}
+
+.cal_container{
+    height:100%;
+}
+
+.cal_container {
+    margin-top: 0;
+    border-radius: 6px;
+    width:4rem;
+    background-color: rgb(137, 132, 163);
+}
+
+.cal_box{
+    padding-top:2.5rem;
+    width:25rem;
+    margin:auto;
+}
+
+.cal_btns_container{
+    height:100%;
+    padding:0 4rem;
+    font-size: 1.8rem;
+}
+
+.cal_btns_container > * {
+    margin-top: 0;
+    border-radius: 6px;
+    width:4rem;
+}
+
+.first_row{
+    display: block;
+}

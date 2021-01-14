@@ -1,0 +1,24 @@
+.btn_style{
+    height: 3rem;
+    width:17rem;
+    background-color: rgb(137, 132, 163);
+    font-size: 1.2rem; 
+    font-weight: bold;
+    color:white;
+    display: inline-block;
+    margin:auto;
+    cursor: pointer;
+    border: 3px solid white;
+    outline: none;
+    border-radius: 0.7rem;
+}
+
+.result_btn_style{
+    margin-top:3.5rem;
+    margin-bottom:2rem;
+}
+
+.clear_btn{
+    width: 4.5rem !important;
+    font-size: 1.4rem;
+}

@@ -1,0 +1,10 @@
+.results_list{
+    list-style: none;
+    color:white;
+    font-size: 1.2rem;
+}
+
+.result_style h2{
+    margin:auto;
+    margin:0;
+}

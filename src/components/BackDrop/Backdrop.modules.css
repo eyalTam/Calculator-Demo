@@ -1,0 +1,9 @@
+.backdrop_style{
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    z-index:-1;
+    background: linear-gradient(rgb(188, 214, 193),rgb(56, 35, 35));
+}
